@@ -22,7 +22,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/soumik-saha/LearnHub
+    git clone https://github.com/soniprem831/LearnHub
     ```
 
 2. **Install dependencies for both client and server:**
