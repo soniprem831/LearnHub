@@ -106,7 +106,7 @@ Ensure you have a `.env` file in both the client and server directories with the
 
 ## Contributors
 
-- [Soumik Saha](https://www.linkedin.com/in/soumikisonline)
+- [Prem Prakash soni](www.linkedin.com/in/prem1308)
 
 ## Deployed Application
 
